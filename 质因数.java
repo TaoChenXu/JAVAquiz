@@ -18,5 +18,5 @@ public class zhiyinshu
 		   System.out.print(n);        
 		   }     
 		               
-     }
+        }
 }
